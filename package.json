@@ -1,0 +1,22 @@
+{
+  "name": "ajs-homework-1-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "...",
+    "html-webpack-plugin": "...",
+    "mini-css-extract-plugin": "...",
+    "webpack": "...",
+    "webpack-cli": "...",
+    "webpack-dev-server": "..."
+  }
+}
